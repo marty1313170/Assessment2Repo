@@ -15,14 +15,21 @@ ELectronic limiters can create fake ties, as most cars speeds are capped and can
 
 
 # Kilometres per litre
+Higher wins - wins are clear and intutitive as more per litre = more efficent. The spread is cluster tight and are roughly bunched at the 10-20km/L, with SUV's and Vans are alot less effcient, which can lead to alot of ties, so it is weaked than horsepower or top speed. Some car's in the game might be an electric, with no litre burned so no value can be produced, which means the small car can beat the Ferrari, meaning variety is added so the weak cards can have a chance to win, good for balance.
+can hurt fairness. It is negativley correlated with power meaning a small car 
 
 
-4. Safety Rating
+# Safety Rating
+The advantages that its 5 star rating, is very simple to utilise, however this is also its major disadvantage; as now almost all cars score 5 stars on the safety rating, which neglects all point of having this attribute. But to fix it we can use a percentage score out of 100, which can display and filter those cars with "just" a 5 star, and one with a full "5" star rating. 
 
-5. Engine Type
+# Price
+The price is one of the deciding factor for a car to be drawn out of deck, and its data is widely availabile for major, its the whole point of the attribute/listing. The spread in this attirbute is strong and is well distributed, many values equal = clear winners. One fallback though is that unlike other attributes price isn't objective and higher price doesn't mean a stronger attribute, so it must be declared by the player but overall price doesn't have a "good" direction.
 
-6. Total  Amount Driven
 
+# Total  Amount Driven
+
+
+Direction Lower equals wins fewer km = less wear, more life left. Objective but it's a reversed stat like fuel economy, so players instinctively read higher as better and get it backwards. Data availability Odometer is a standard used-car field, almost always present. Used cars bunch heavily around 50k–200k, with most landing in the clustering zone  this is why it's the weakest of the stats, however stronger than other stats.
 
 
 
