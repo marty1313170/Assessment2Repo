@@ -51,6 +51,8 @@ Deck Methods | Description
 |-------------|-------|
 | shuffle() | ramdonises the card deck
 | pack_up() | collects the cards back together
+| deal_cards() | gives cards to the players
+| build_deck() | puts the card into the pile to start shuffle() and deal()
 
 **Role:** The Deck is the manager. It holds the full set of cards before play begins, shuffles them for fairness, and deals them out. Once the cards are in players' hands its job is essentially done.
 
@@ -87,6 +89,8 @@ Game Methods | Description
 | setup() | shuffles card and deals
 | play_round() | runs one round of play
 | turn() | advances to the next players turn
+| reveal() | reveal cards
+| award_cards() | award cards to the winner
 
 
 **Role**:The game is the contoller and creator, its role is run everything and enforce the rules. It sets the game up through *Deck*, and uses the round-by-round loop and compares played card, resolves wins and ties. It manages the cards that are given to the winner and allows the *Player* to know when the game is over and coordinates every other class. 
